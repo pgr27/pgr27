@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Patri 🙋‍♀️
 
-<!--
-**pgr27/pgr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora de Aplicaciones Multiplataforma
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java ☕
+- JavaScript ⚡️  
+- HTML / CSS 🎨  
+- React ⚛️  
+- GitHub 
+- SQL  
+- ... ¡y muchas más!
+
+## Sobre mi
+Buena compañera, empática y con capacidad de análisis. Me gusta aprender y compartir lo que sé.
+Siempre que puedo, me escapo de viaje para descubrir nuevas culturas y, sobre todo, su gastronomía.
+La naturaleza y las relaciones que suman son mi forma de recargar energía.
+
+## 📫 Contacto
+- Email: pgr2097@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pgr27
+  
+## ¿Te ha interesado lo que has visto? Escríbeme, me encantará conocerte.
+Gracias por pasarte por aquí :)
+
